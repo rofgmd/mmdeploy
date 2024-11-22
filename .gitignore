@@ -123,6 +123,7 @@ data
 *.log.json
 work_dirs
 work_dirs/
+mmdeploy_models/
 
 # Pytorch
 *.pth
