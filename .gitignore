@@ -121,6 +121,8 @@ data
 *.pkl
 *.pkl.json
 *.log.json
+work_dir
+work_dirs/
 work_dirs
 work_dirs/
 mmdeploy_models/
